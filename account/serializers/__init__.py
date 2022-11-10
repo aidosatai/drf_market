@@ -3,4 +3,5 @@ from .serializers import (
     CustomUserCreateSerializer,
     CustomUserListSerializer,
     CustomUserLoginSerializer,
+    CheckUserOTPSerializer,
 )
